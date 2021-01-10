@@ -16,3 +16,4 @@ num[0].sort()
 num[0].sort()
 print(f'Todos os valores pares: {num[0]}')
 print(f'Todos os valores impares: {num[1]}')
+teste
